@@ -1,0 +1,8 @@
+# bscscan/etherscan api key for verification
+API_KEY=""
+
+# private key for deployment on networks
+metamask_private_key ="0x925362BCb011EF659053b69984f5De0784EAB7c9"
+
+#URL
+URL : https://sepolia.infura.io/v3/e5c67b60c6034390822ac56d98904a79
